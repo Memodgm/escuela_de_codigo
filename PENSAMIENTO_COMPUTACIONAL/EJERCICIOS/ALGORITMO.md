@@ -18,19 +18,21 @@
 
 4 edad= (año_actual - año_nacimiento).
 
-5 Preguntar ¿en el año actual, ya ocurrió tu día y mes de nacimiento? ingrese si o no
+5 Preguntar ¿en el año actual, ya ocurrió tu día y mes de nacimiento? 
 
-6 Si la respuesta es no.
+6 Ingrese si o no.
 
-7 edad2= (edad- 1).
+7 Si la respuesta es no.
 
-8 Mostrar (edad2)
+8 edad2= (edad - 1).
 
-8 si la respuesta es si.
+9 Mostrar (edad2)
 
-10 mostrar (edad).
+10 si la respuesta es si.
 
-8 Fin.
+11 mostrar (edad).
+
+12 Fin.
 
 
 
