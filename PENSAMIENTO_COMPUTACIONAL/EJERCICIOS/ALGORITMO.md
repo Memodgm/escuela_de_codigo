@@ -12,23 +12,23 @@
 
 1 Inicio.
 
-2 Declaramos variables(año_nacimiento,año_actual,fecha_nacimiento,edad,edad2):números reales.
+2 Declaramos variables(año_nacimiento,año_actual,fecha_nacimiento,edad,edad2,si,no):números reales.
 
 3 Ingrese valores de su fecha de nacimiento(año_actual,año_nacimiento).
 
 4 edad= (año_actual - año_nacimiento).
 
-5 Preguntar ¿en el año actual, ya ocurrió tu día y mes de nacimiento?
+5 Preguntar ¿en el año actual, ya ocurrió tu día y mes de nacimiento? ingrese si o no
 
 6 Si la respuesta es no.
 
-7 Mostrar (edad).
+7 edad2= (edad- 1).
+
+8 Mostrar (edad2)
 
 8 si la respuesta es si.
 
-9 edad2= (edad + 1).
-
-10 mostrar (edad2).
+10 mostrar (edad).
 
 8 Fin.
 
