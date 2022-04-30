@@ -7,7 +7,7 @@ curso?
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 
-* numérica
+* numérica.
 
 ¿Qué tipo de dato debe tener una variable para contener el nombre de pila de una persona?
 
