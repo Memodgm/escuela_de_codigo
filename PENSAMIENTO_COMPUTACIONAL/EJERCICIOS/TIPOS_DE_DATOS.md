@@ -1,10 +1,9 @@
 ## RETO 
 Vamos a identificar los siguientes tipos de datos
 
-NUMEROS ENTEROS : 
+NUMEROS ENTEROS : Int
+NUMEROS DECIMALES: Float
 
-NUMEROS DECIMALES: 
+CARACTER : Char
 
-CARACTER : 
-
-CADENA DE CARACTERES : 
+CADENA DE CARACTERES : String
