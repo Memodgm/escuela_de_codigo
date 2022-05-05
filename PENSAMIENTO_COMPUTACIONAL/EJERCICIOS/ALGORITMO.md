@@ -20,7 +20,7 @@ Inicio
 
 7.- buscar o preparar alguna bebida para acompañar mis alimentos
 
-8.- empezarar a cocinar
+8.- empezar a cocinar
 
 9.- servir la comida en los platos
 
