@@ -5,20 +5,36 @@
 
 
 Inicio
+
 1.- Ver ingredientes disponibles en la alacena y refrigerador
+
 2.- Definir qué podría cocinar con lo que tengo
+
 3.- De las opciones que puedo cocinar, determinar cuál se me antoja. 
+
 4.- limpiar cocina para iniciar la elaboración de los alimentos.
+
 5.- buscar, juntar  y acercar los utencilios a utilizar 
+
 6.- buscar, juntar  y acercar los platos, tenedores donde serviré mi comida
+
 7.- buscar o preparar alguna bebida para acompañar mis alimentos
+
 8.- empezarar a cocinar
+
 9.- servir la comida en los platos
+
 10.- servirse la bebida
+
 11.- usar los cubiertos para comer
+
 12.- recoger los platos y llevarlos al fregadero
+
 13.- lavar platos
+
 14.- prepararse para salir
+
+FIN
 
 
 
