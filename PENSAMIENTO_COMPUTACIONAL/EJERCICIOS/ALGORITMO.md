@@ -1,7 +1,7 @@
 ## REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
 
-# Algoritmo cualitativo preparar mi comida antes de asistir a la escuela de código los sábados. 
+# Algoritmo cualitativo: preparar mi comida antes de asistir a la escuela de código los sábados. 
 
 
 Inicio
@@ -41,6 +41,36 @@ FIN
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
+Inicio 
+
+Declarar(añoNacimiento,añoActual,diaNacimiento,mesNacimiento,tuEdad)int
+
+Mostrar("dame tu día de nacimiento")
+
+Asignar(diaNacimiento)
+
+Mostrar("dame tu mes de nacimiento")
+
+Asignar(mesNacimiento)
+
+Mostrar("dame tu año de nacimiento")
+
+Asignar(añoNacimiento)
+
+Mostrar("Ingrese el año actual")
+
+Asignar(añoActual)
+
+tuEdad= añoactual - añoNacimiento
+
+Mostrar(" tu edad es de ",tuEdad, " años ")
+
+Fin
+
+
+
+
+
 
 
 
@@ -64,6 +94,7 @@ incremento=precioFinal-precioInicial
 
 porcentaje=(incremento*100)/precioInicial
 
-mostrar("el incremento fue de",porcentaje)
+mostrar(" el incremento fue de  ",porcentaje)
 
 Fin  
+
