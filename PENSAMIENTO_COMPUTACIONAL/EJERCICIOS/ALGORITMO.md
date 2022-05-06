@@ -61,7 +61,7 @@ Mostrar("Ingrese el año actual")
 
 Asignar(añoActual)
 
-tuEdad= añoactual - añoNacimiento
+tuEdad= añoActual - añoNacimiento
 
 Mostrar(" tu edad es de ",tuEdad, " años ")
 
