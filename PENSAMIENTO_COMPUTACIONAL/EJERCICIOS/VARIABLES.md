@@ -2,7 +2,7 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-- numèrico decimal.
+- dato numèrico decimal.
 
 
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
@@ -16,7 +16,7 @@ hogar?
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-- Cadena de caracteres.
+- tipo de dato lógico.
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
