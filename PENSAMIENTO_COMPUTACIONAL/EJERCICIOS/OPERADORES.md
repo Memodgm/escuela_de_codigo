@@ -5,7 +5,7 @@ Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 # X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
-En la operación anterior se agrupan los términos en dos paréntesis de izquierda a derecha
+En la expresión anterior se agrupan los términos en dos paréntesis de izquierda a derecha
 
 Primero se realizan las operaciones del paréntesis (18/9*2+16)
 
@@ -37,7 +37,7 @@ Por lo tanto,   X = 27
 
 #   X = (5 + 2 * 4) – (25 +. 5)2
 
-En la operación anterior se agrupan los términos en dos paréntesis de izquierda a derecha
+En la expresión anterior se agrupan los términos en dos paréntesis de izquierda a derecha
 
 Primero se realizan las operaciones del paréntesis (5+ 2 * 4)
 
@@ -71,6 +71,21 @@ por lo tanto, X = - 23
 
 # X = ((8-6)^2*3)^3
 
+En la expresión anterior se agrupan los términos en un paréntesis, que está elevado a la potencia 3.
+
+Primero se realiza la operación 8 - 6, que nos da 2.
+
+luego, éste resultado 2 se eleva a la potencia 2 y obtenemos 4.
+
+finalmente el número obtenido 4 se multiplica por 3 y el resultado final de las operaciones contenidas en el paréntesis es 12.
+
+El resultado de las operaciones dentro del paréntesis 12  se eleva a la potencia 3 y el resultado final de toda  la expresión es 1728
+
+Por lo tanto X = 1728 
+
+
+
+
 
 
 
@@ -92,7 +107,9 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
-Reto. Analiza el problema y selecciona la opción que consideres que lo
+
+
+# Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
@@ -110,9 +127,18 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+
+# 1) (45<120 OR 12<120) =
+
+
+# 2) (6! =6) && (12>22)) =
+
+
+# 3) ¬ (128<145 && 12>9) =
+
+
+# 4) “Daniela”< >”DANIELA” =
+
+
+# 5) 10*20< >210 =
 
