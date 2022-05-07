@@ -9,15 +9,28 @@
 # 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
 
       
-## Algoritmo para convertir metros a yardas
+      
+      
+      
+      
+      
+## Algoritmo para hacer la conversión de  metros a yardas
+
 
 Inicio
+
 declarar(metros)int
+
 declarar(result)float
+
 Mostrar(" Ingrese el número de metros ")
+
 asignar(metros)
+
 result= metros * 1.09361
+
 mostrar( " La conversión de ",metros," metros a yardas es igual a ",result)
+
 Fin
 
 
