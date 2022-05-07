@@ -6,7 +6,48 @@
 
 
 
+## Algoritmo número positivo/negativo
+
+inicio
+
+declarar(numero)int
+
+mostrar("ingresa el número")
+
+asignar(numero)
+
+si numero >0 entonces
+
+mostrar(" El número es positivo ")
+
+sino
+
+mostrar(" El número es negativo ") 
+
+finsi
+
+fin 
+
+
+![image](https://user-images.githubusercontent.com/104279978/167274322-3730d404-b4f4-449e-89d3-452713197048.png)
+
+
+
+
+
+
+
+
+
+
 # * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+
+
+
+
+
+
+
 
 
 
