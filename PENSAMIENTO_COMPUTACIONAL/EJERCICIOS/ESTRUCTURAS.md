@@ -75,6 +75,30 @@ fin
 # * Un programa que pida una letra y detecte si es una vocal. 
 
 
+Inicio
+
+declarar(letra)char
+
+mostrar( " Ingrese una letra ")
+
+asignar(letra)
+
+si letra=a || letra=e || letra=i || letra=o || letra=u  entonces
+
+mostrar(" La letra que introdujo es una vocal")
+
+sino
+
+mostrar(" La letra es una consonante")
+
+Fin
+
+
+
+
+
+
+
 
 
 
