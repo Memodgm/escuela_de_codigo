@@ -43,7 +43,25 @@ fin
 # * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 
 
+inicio
 
+declarar(letra)char
+
+mostrar(" ingrese una letra ")
+
+asignar(letra)
+
+si letra=s || letra=n entonces
+
+mostrar(" introdujo un correctamente permitido ")
+
+sino
+
+mostrar(" introdujo un caracter erróneo ") 
+
+finsi
+
+fin 
 
 
 
