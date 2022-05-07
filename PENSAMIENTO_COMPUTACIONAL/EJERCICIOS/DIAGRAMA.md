@@ -34,7 +34,7 @@ mostrar( " La conversión de ",metros," metros a yardas es igual a ",result)
 Fin
 
 
-
+![image](https://user-images.githubusercontent.com/104279978/167272865-57934d55-5fa7-4cdd-ae75-9f00c9e09f53.png)
 
 
 
