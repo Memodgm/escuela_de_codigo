@@ -39,6 +39,8 @@ Fin
 
 
 
+
+
 # 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
  
