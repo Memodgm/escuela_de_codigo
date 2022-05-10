@@ -4,10 +4,6 @@
 # * Programa que pida un número y diga si es positivo o negativo
 
 
-
-
-## Algoritmo número positivo/negativo
-
 inicio
 
 declarar(numero)int
@@ -27,6 +23,7 @@ mostrar(" El número es negativo ")
 finsi
 
 fin 
+
 
 
 ![dagar nume negativco posit](https://user-images.githubusercontent.com/104279978/167670994-dfba57bc-fc96-486b-8e11-304a03265b43.png)
@@ -98,6 +95,7 @@ finsi
 Fin
 
 
+
 ![diagrama flujop vocal ](https://user-images.githubusercontent.com/104279978/167669967-500bb503-8c44-43a1-940e-d304a7ea23f7.png)
 
 
@@ -121,7 +119,12 @@ Fin
 
 
 
+
 # * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+
+
+
+
 
 
 
