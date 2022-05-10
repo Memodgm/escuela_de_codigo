@@ -91,7 +91,14 @@ sino
 
 mostrar(" La letra es una consonante")
 
+finsi
+
 Fin
+
+
+![diagrama flujop vocal ](https://user-images.githubusercontent.com/104279978/167669967-500bb503-8c44-43a1-940e-d304a7ea23f7.png)
+
+
 
 
 
@@ -103,6 +110,10 @@ Fin
 
 
 # * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+
+
+
+
 
 
 
