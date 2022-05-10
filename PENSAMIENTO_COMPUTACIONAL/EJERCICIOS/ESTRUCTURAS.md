@@ -29,7 +29,8 @@ finsi
 fin 
 
 
-![image](https://user-images.githubusercontent.com/104279978/167274322-3730d404-b4f4-449e-89d3-452713197048.png)
+![dagar nume negativco posit](https://user-images.githubusercontent.com/104279978/167670994-dfba57bc-fc96-486b-8e11-304a03265b43.png)
+
 
 
 
@@ -53,7 +54,7 @@ asignar(letra)
 
 si letra=s || letra=n entonces
 
-mostrar(" introdujo un correctamente permitido ")
+mostrar(" introdujo una letra permitida ")
 
 sino
 
@@ -65,7 +66,8 @@ fin
 
 
 
-![image](https://user-images.githubusercontent.com/104279978/167275237-109bcfb6-073a-416e-8bb2-7e22e4ce2195.png)
+![letraperimitida sn](https://user-images.githubusercontent.com/104279978/167671566-4fc1d79e-cdcc-4085-937b-a272bef0d23b.png)
+
 
 
 
