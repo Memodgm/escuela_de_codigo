@@ -204,10 +204,81 @@ fin
 
 # * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 
+Inicio
+
+declarar(num)int
+
+mostrar ("ingresa un número ")
+
+asignar(num)
+
+Si num<=0 & num>12 Entonces
+		mostrar(" Ingresó un número incorrecto")
+	SiNo
+		Si num>0 y numnum<=12 Entonces
+			Si num=1 Entonces
+				mostrar("   ENERO  es el mes correspondiente a su número ")
+			SiNo
+				Si num=2 Entonces
+				mostrar("  FEBRERO  es el  mes correspondiente a su número ")
+				SiNo
+					Si  num=3 Entonces
+			         mostrar("   MARZO  es el  mes correspondiente a su número ")
+					SiNo
+						Si num=4 Entonces
+		               mostrar("   ABRIL  es el  mes correspondiente a su número ")
+						SiNo
+				Si num=5 Entonces
+			mostrar("   MAYO  es el  mes correspondiente a su número ")
+							SiNo
+				Si num=6 Entonces
+		     mostrar("   JUNIO  es el  mes correspondiente a su número ")
+						      SiNo
+				Si num=7 Entonces
+		    mostrar("   JULIO  es el  mes correspondiente a su número ")
+							SiNo
+				Si num=8 Entonces
+		   mostrar("   AGOSTO  es el  mes correspondiente a su número ")
+			       SiNo
+			      Si num=9 Entonces
+												mostrar("   SEPTIEMBRE  es el  mes correspondiente a su número ")
+		          SiNo
+			Si num=10 Entonces
+												mostrar("   OCTUBRE  es el  mes correspondiente a su número ")
+												SiNo
+													Si num=11 Entonces
+														mostrar("   NOVIEMBRE  es el  mes correspondiente a su número ")
+													SiNo
+														Si num=12 Entonces
+															mostrar("  DICIEMBRE  es el  mes correspondiente a su número ")
+														SiNo
+															mostrar(" Ingresó un número incorrecto")
+														Fin Si
+													Fin Si
+												Fin Si
+											Fin Si
+										Fin Si
+									Fin Si
+								Fin Si
+							Fin Si
+						Fin Si
+					Fin Si
+				Fin Si
+			Fin Si
+		SiNo
+			mostrar(" Ingresó un número incorrecto")
+		Fin Si
+	Fin Si
+
+
+
+Fin
 
 
 
 
+
+![diagrama mes a número corres](https://user-images.githubusercontent.com/104279978/168396067-5a1614ef-d05f-43cf-b5e6-70d79df422e5.png)
 
 
 
