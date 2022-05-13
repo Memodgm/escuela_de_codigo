@@ -386,6 +386,10 @@ Fin
 
 
 
+![diagrama de flujo candidatos  a b c ](https://user-images.githubusercontent.com/104279978/168398762-e9ebbbbb-04a0-4d83-9649-a12a716698be.png)
+
+
+
 
 
 
