@@ -193,6 +193,8 @@ fin
 
 ![diagramorden 3 nume menor a may](https://user-images.githubusercontent.com/104279978/168389209-073d31b9-8bb4-4e53-a027-f3b69cdeffeb.png)
 
+![diagrama ordn 3 num menor a may](https://user-images.githubusercontent.com/104279978/168389738-dc6bd788-48a2-4328-a91b-890972354b48.png)
+
 
 
 
