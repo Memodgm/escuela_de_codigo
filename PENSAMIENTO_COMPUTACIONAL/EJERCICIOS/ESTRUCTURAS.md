@@ -173,7 +173,7 @@ SiNo
 
 Si n1=n2 o n2=n3 o n1=n3 Entonces
 
-mostrar(" ingresó números idénticos "
+mostrar(" ingresó números idénticos ")
 
 SiNo
 
