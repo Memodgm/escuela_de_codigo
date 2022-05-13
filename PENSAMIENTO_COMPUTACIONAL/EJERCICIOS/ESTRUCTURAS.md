@@ -329,6 +329,62 @@ Fin
 
 
 
+Inicio
+
+declarar(candidato)char
+	
+	mostrar ("  Usted solo puede votar por los siguientes candidatos :  ")
+	
+	mostrar (" - Candidato A del partido rojo ")
+	
+        mostrar (" - Candidato B  del partido verde ")
+	
+	
+	mostrar (" - Candidato C  del partido azul ")
+	
+
+	mostrar ("       Ingrese su voto ")
+	
+	asignar(candidato)
+	
+	Si candidato="A" o candidato= "a"  Entonces
+	
+		mostrar ("   Usted ha votado por el partido rojo ")
+		
+	SiNo
+		Si candidato="B" o candidato="b" Entonces
+		
+			mostrar ("  Usted ha votado por el partido verde ")
+			
+		SiNo
+			Si candidato="C" o candidato="c" Entonces
+			
+				mostrar ("    Usted ha votado por el partido azul ")
+				
+			SiNo
+			
+Si candidato<>"a" o candidato<>"a" o candidato<>"B" o candidato<>"b" o candidato<>"C" o
+
+candidato<>"C"  Entonces
+			
+					mostrar ("     Ingresó una opción errónea en el voto")
+					
+				SiNo
+				
+					//
+					
+				Fin Si
+				
+			Fin Si
+			
+		Fin Si
+		
+	Fin Si
+	
+Fin
+
+
+
 
 
 
