@@ -112,6 +112,84 @@ Fin
 # * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 
 
+Inicio
+
+declarar(n1,n2,n3)int
+
+mostrar ("ingresa el primer número")
+
+asignar(n1)
+
+mostrar ("ingresa el segundo número")
+
+asignar(n2)
+
+mostrar ("ingresa el tercer número")
+
+asignar(n3)
+
+
+Si n1<n2 & n1<n3 Entonces
+                 
+Si n2<n3 Entonces
+
+mostrar(" El orden de los nùmeros es: ",n1," / ",n2," / ",n3)
+
+SiNo
+
+mostrar(" El orden de los nùmeros es: ",n1," / ",n3," / ",n2)
+
+Fin Si
+
+SiNo
+
+Si  n2<n1 & n2<n3 Entonces
+                  
+Si n1<n3 Entonces
+
+mostrar(" El orden de los nùmeros es: ",n2," / ",n1," / ",n3)
+
+SiNo
+
+mostrar(" El orden de los nùmeros es: ",n2," / ",n3," / ",n1)
+
+Fin Si
+
+SiNo
+
+Si n3<n1 & n3<n2 Entonces
+                 
+Si n1<n2 Entonces
+
+mostrar(" El orden de los nùmeros es ",n3," / ",n1," / ",n2)
+
+SiNo
+
+mostrar(" El orden de los nùmeros es ",n3," / ",n2," / ",n1)
+
+Fin Si
+
+SiNo
+
+Si n1=n2 o n2=n3 o n1=n3 Entonces
+
+mostrar(" ingresó números idénticos "
+
+SiNo
+
+//
+
+Fin Si
+
+Fin Si
+
+Fin Si
+
+Fin Si
+
+fin
+	
+  
 
 
 
