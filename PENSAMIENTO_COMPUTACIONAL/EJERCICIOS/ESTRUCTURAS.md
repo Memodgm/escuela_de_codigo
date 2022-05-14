@@ -214,104 +214,119 @@ asignar(num)
 
 Si num<=0 & num>12 Entonces
 
-		mostrar(" Ingresó un número incorrecto")
+mostrar(" Ingresó un número incorrecto")
 		
 	SiNo
-		Si num>0 y numnum<=12 Entonces
-		
-			Si num=1 Entonces
-			
-				mostrar("   ENERO  es el mes correspondiente a su número ")
-				
-			SiNo
-			
-				Si num=2 Entonces
-				
-				mostrar("  FEBRERO  es el  mes correspondiente a su número ")
-				
-				SiNo
-				
-					Si  num=3 Entonces
-					
-			         mostrar("   MARZO  es el  mes correspondiente a su número ")
-				 
-					SiNo
-					
-						Si num=4 Entonces
-						
-		               mostrar("   ABRIL  es el  mes correspondiente a su número ")
-			       
-						SiNo
-						
-				Si num=5 Entonces
-				
-			mostrar("   MAYO  es el  mes correspondiente a su número ")
-			
-							SiNo
-							
-				Si num=6 Entonces
-				
-		     mostrar("   JUNIO  es el  mes correspondiente a su número ")
-		     
-						      SiNo
-						      
-				Si num=7 Entonces
-				
-		    mostrar("   JULIO  es el  mes correspondiente a su número ")
-		    
-							SiNo
-							
-				Si num=8 Entonces
-				
-		   mostrar("   AGOSTO  es el  mes correspondiente a su número ")
-		   
-			       SiNo
-			       
-			      Si num=9 Entonces
-												mostrar("   SEPTIEMBRE  es el  mes correspondiente a su número ")
-												
-		          SiNo
-			  
-			Si num=10 Entonces
-												mostrar("   OCTUBRE  es el  mes correspondiente a su número ")
-												SiNo
-													Si num=11 Entonces
-														mostrar("   NOVIEMBRE  es el  mes correspondiente a su número ")
-													SiNo
-														Si num=12 Entonces
-															mostrar("  DICIEMBRE  es el  mes correspondiente a su número ")
-														SiNo
-															mostrar(" Ingresó un número incorrecto")
-														Fin Si
-													Fin Si
-												Fin Si
-											Fin Si
-											
-										Fin Si
-										
-									Fin Si
-									
-								Fin Si
-								
-							Fin Si
-							
-						Fin Si
-						
-					Fin Si
-					
-				Fin Si
-				
-			Fin Si
-			
-		SiNo
-		
-			mostrar(" Ingresó un número incorrecto")
-			
-		Fin Si
-		
-	Fin Si
 	
+Si num>0 y numnum<=12 Entonces
+		
+Si num=1 Entonces
+			
+mostrar("   ENERO  es el mes correspondiente a su número ")
+				
+SiNo
+			
+Si num=2 Entonces
+				
+mostrar("  FEBRERO  es el  mes correspondiente a su número ")
+				
+SiNo
+				
+Si  num=3 Entonces
+					
+mostrar("   MARZO  es el  mes correspondiente a su número ")
+				 
+SiNo
+					
+Si num=4 Entonces
+						
+mostrar("   ABRIL  es el  mes correspondiente a su número ")
+			       
+SiNo
+						
+Si num=5 Entonces
+				
+mostrar("   MAYO  es el  mes correspondiente a su número ")
+			
+SiNo
+							
+Si num=6 Entonces
+				
+mostrar("   JUNIO  es el  mes correspondiente a su número ")
+		     
+SiNo
+						      
+Si num=7 Entonces
+				
+mostrar("   JULIO  es el  mes correspondiente a su número ")
+		    
+SiNo
+							
+Si num=8 Entonces
+				
+mostrar("   AGOSTO  es el  mes correspondiente a su número ")
+		   
+SiNo
+			       
+Si num=9 Entonces
+						
+mostrar("   SEPTIEMBRE  es el  mes correspondiente a su número ")
+												
+SiNo
+			  
+Si num=10 Entonces
+		
+mostrar("   OCTUBRE  es el  mes correspondiente a su número ")
+										
+SiNo
+		
+Si num=11 Entonces
+														
+mostrar("   NOVIEMBRE  es el  mes correspondiente a su número ")
+						
+SiNo
+	
+Si num=12 Entonces
+															
+mostrar("  DICIEMBRE  es el  mes correspondiente a su número ")
+												
+SiNo
+					
+mostrar(" Ingresó un número incorrecto")
 
+Fin Si
+				
+Fin Si
+			
+Fin Si
+											
+Fin Si
+											
+							
+Fin Si
+										
+Fin Si
+									
+Fin Si
+								
+Fin Si
+							
+Fin Si
+						
+Fin Si
+					
+Fin Si
+				
+Fin Si
+			
+SiNo
+		
+mostrar(" Ingresó un número incorrecto")
+			
+Fin Si
+		
+Fin Si
+	
 
 
 Fin
@@ -367,19 +382,19 @@ Si candidato<>"a" o candidato<>"a" o candidato<>"B" o candidato<>"b" o candidato
 
 candidato<>"C"  Entonces
 			
-					mostrar ("     Ingresó una opción errónea en el voto")
+mostrar ("     Ingresó una opción errónea en el voto")
 					
-				SiNo
+SiNo
 				
-					//
+//
 					
-				Fin Si
+Fin Si
 				
-			Fin Si
+Fin Si
 			
-		Fin Si
+Fin Si
 		
-	Fin Si
+Fin Si
 	
 Fin
 
@@ -415,17 +430,17 @@ asignar(contra2)
 
 Si email=email2 y contra=contra2 Entonces
 		
-		mostrar("los datos son correctos."
+mostrar("los datos son correctos."
 		
-		mostrar(" Su email es:  ",email2)
+mostrar(" Su email es:  ",email2)
 		
-		mostrar("Su contraseña es: ",contra2)
+mostrar("Su contraseña es: ",contra2)
 		
-	SiNo
+SiNo
 	
-		mostrar("¡ Error ! Los datos ingresados no coinciden  ")
+mostrar("¡ Error ! Los datos ingresados no coinciden  ")
 		
-	Fin Si
+Fin Si
 	
 Fin
 
