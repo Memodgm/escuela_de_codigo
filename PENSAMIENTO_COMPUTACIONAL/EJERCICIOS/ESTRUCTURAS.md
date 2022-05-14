@@ -397,7 +397,40 @@ Fin
 
 
 
+Inicio
+
+declarar(email,contra,contra2,email2)string
+
+email=escuelacodigo@gmail.com
+
+contra=1234
+
+mostrar(" Ingrese su email ")
+
+asignar(email2)
+
+mostrar(" Introduzca su contraseña ")
+
+asignar(contra2)
+
+Si email=email2 y contra=contra2 Entonces
+		
+		mostrar("los datos son correctos."
+		
+		mostrar(" Su email es:  ",email2)
+		
+		mostrar("Su contraseña es: ",contra2)
+		
+	SiNo
+	
+		mostrar("¡ Error ! Los datos ingresados no coinciden  ")
+		
+	Fin Si
+	
+Fin
 
 
+
+![diagram flujo email y contra](https://user-images.githubusercontent.com/104279978/168405233-92a419e0-dd6c-4152-8238-32dddd537160.png)
 
 
