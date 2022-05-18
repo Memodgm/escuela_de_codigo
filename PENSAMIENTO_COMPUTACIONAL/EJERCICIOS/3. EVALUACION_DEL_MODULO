@@ -14,6 +14,34 @@ la edad promedio de un grupo de N alumnos.
 
 
 
+Inicio
+
+declarar(promedio,edad,n,,edad,suma)int
+
+mostrar ("    Introduzca el número de personas al que vamos a calcular su edad  ")
+
+asignar (n)
+
+i=1
+
+Mientras i <= n Hacer
+	
+mostrar ("  Ingrese la edad de la persona ")
+
+asignar(edad)
+
+suma =  suma + edad
+
+promedio= suma / n
+
+i= i + 1
+		
+Fin Mientras
+	
+mostrar (" El promedio de la edad de las personas es: ", promedio)
+	
+Fin
+
 
 
 
@@ -22,6 +50,7 @@ la edad promedio de un grupo de N alumnos.
 
 Ingrese al siguiente link para observar el diagrama de flujo
 https://ibb.co/cFZVfJ2
+
 
 
 
