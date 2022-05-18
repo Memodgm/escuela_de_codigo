@@ -14,36 +14,49 @@ la edad promedio de un grupo de N alumnos.
 
 
 
-ingrese al siguiente link para observar el diagrama
+
+
+
+
+
+
+Ingrese al siguiente link para observar el diagrama de flujo
 https://ibb.co/cFZVfJ2
-
-
-
 
 
 
 
 Algoritmo Promedio_EdadNalumnos
 	
-	promedio<-0
-	edad<-0
-	n<-0
-	suma<-0
-  
-	Escribir "    Introduzca el número de personas al que vamos a calcular su edad  "
-	Leer n
-	i=1
+promedio<-0
 
-	Mientras i <= n Hacer
-		escribir "  Ingrese la edad de la persona "
-		Leer edad
-		suma =  suma + edad
-		promedio= suma / n
-		i= i + 1
-		
-	Fin Mientras
+edad<-0
+
+n<-0
+
+suma<-0
+  
+Escribir "    Introduzca el número de personas al que vamos a calcular su edad  "
+
+Leer n
+
+i=1
+
+Mientras i <= n Hacer
 	
-	Escribir " El promedio de la edad de las personas es: ", promedio
+escribir "  Ingrese la edad de la persona "
+
+Leer edad
+
+suma =  suma + edad
+
+promedio= suma / n
+
+i= i + 1
+		
+Fin Mientras
+	
+Escribir " El promedio de la edad de las personas es: ", promedio
 	
 FinAlgoritmo
 
