@@ -10,3 +10,40 @@ adicional que la nota debe cumplir: debe estar dentro del rango 1,0 a 7,0.
 ## Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener 
 la edad promedio de un grupo de N alumnos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algoritmo Promedio_EdadNalumnos
+	
+	promedio<-0
+	edad<-0
+	n<-0
+	suma<-0
+  
+	Escribir "    Introduzca el número de personas al que vamos a calcular su edad  "
+	Leer n
+	i=1
+
+	Mientras i <= n Hacer
+		escribir "  Ingrese la edad de la persona "
+		Leer edad
+		suma =  suma + edad
+		promedio= suma / n
+		i= i + 1
+		
+	Fin Mientras
+	
+	Escribir " El promedio de la edad de las personas es: ", promedio
+	
+FinAlgoritmo
+
