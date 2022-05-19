@@ -4,9 +4,78 @@ y el mensaje REPROBADO en caso contrario, considere además el siguiente requisi
 
 
 
+Inicio
+
+declara (notafinal)float
+	
+mostrar (" Introduzca la calificación final del estudiante ")
+
+asignar (notafinal)
+	
+Si notafinal >= 1 && notafinal<=7 Entonces
+
+Si notafinal >= 4 Entonces
+
+mostrar ("El estudiante APROBÓ el curso ")
+
+SiNo
+
+mostrar (" Reprobado ")
+
+Fin Si
+
+SiNo
+
+mostrar (" Ingresó una calificación fuera del rango")
+
+Fin Si
+	
+Fin
 
 
-Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
+
+
+
+
+
+Ingrese en el siguiente link para visualizar el diagrama de flujo.
+https://ibb.co/524ZrZn
+
+
+
+
+Algoritmo calificacionesAprobatoriasReprobatorias
+
+notafinal<-0
+	
+Escribir " Introduzca la calificación final del estudiante "
+
+leer notafinal
+	
+Si notafinal >= 1 && notafinal<=7 Entonces
+
+Si notafinal >= 4 Entonces
+
+Escribir " El estudiante APROBÓ el curso "
+
+SiNo
+
+Escribir " Reprobado "
+
+Fin Si
+
+SiNo
+
+Escribir " Ingresó una calificación fuera del rango"
+
+Fin Si
+	
+FinAlgoritmo
+
+
+
+
+## Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
 
 
